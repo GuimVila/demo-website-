@@ -1,4 +1,4 @@
-# demo-website-
+# demo-website
 
 First repo!
 
